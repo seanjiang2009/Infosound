@@ -1,0 +1,11 @@
+python==3.10.16
+pyrealsense2==2.54.1
+transformers==4.40.1
+pygame==2.6.1
+opencv-python==4.9.0
+gtts==2.5.1
+numpy==2.2.1
+scipy==1.14.1
+pillow==10.3.0
+imread_from_url==0.1.7
+mss==10.0.0
